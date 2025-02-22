@@ -1,6 +1,6 @@
 # Secure Data Hiding in Images using Steganography
 
-This project demonstrates a simple implementation of image steganography using Python and OpenCV. The application allows users to hide (encrypt) a secret message inside an image and later retrieve (decrypt) the message using a simple UI built with Tkinter.
+This project implements steganography — the technique of hiding secret messages within digital images. Using a python and OpenCV with the help of graphical user interface (GUI) built with Tkinter, users can encrypt a secret message into an image and later decrypt it using a passcode. 
 
 ## Features
 
