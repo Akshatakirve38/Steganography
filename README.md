@@ -26,3 +26,6 @@ This project implements steganography — the technique of hiding secret message
   Install via pip:  
   ```bash
   pip install opencv-python
+
+## Screenshot
+![Image]()
