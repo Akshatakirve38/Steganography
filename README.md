@@ -28,4 +28,4 @@ This project implements steganography — the technique of hiding secret message
   pip install opencv-python
 
 ## Screenshot
-![Image]()
+![Image](https://github.com/Akshatakirve38/Steganography/blob/3ec9c0e51af7631fb6539714b79d4bf7d7861d60/Result.png)
